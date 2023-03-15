@@ -20,8 +20,8 @@ Soy una estudiante de tercer año de ingeniería en sistemas computacionales. Me
 
 **Educación**
 
-Enero 2021 - Actualmente
-Bachillerato en ingeniería en sistemas computacionales / Universidad Latina de Costa Rica
+Enero 2021 - Actualmente //
+Bachillerato en ingeniería en sistemas computacionales / Universidad Latina de Costa Rica //
 Heredia, Rincón de Sabanilla
 Graduación esperada: Junio 2024
 
