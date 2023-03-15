@@ -24,5 +24,6 @@ Bachiller en Educación Media/ Saint Gabriel Elementary and High School
 San José, Tibás
 
 **Idiomas**
+
 Inglés - C2
 Español - nativo
