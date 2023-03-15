@@ -32,4 +32,5 @@ San José, Tibás
 **Idiomas**
 
 Inglés - C2
+
 Español - nativo
