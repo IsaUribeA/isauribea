@@ -34,3 +34,7 @@ San José, Tibás
 Inglés - C2
 
 Español - nativo
+
+**Contacto**
+
+Correo: isabelu2207@gmail.com
