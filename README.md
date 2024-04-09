@@ -23,7 +23,7 @@ Soy una estudiante de tercer año de ingeniería en sistemas computacionales. Me
 <p>Enero 2021 - Actualmente </p>
 <p>Bachillerato en ingeniería en sistemas computacionales / Universidad Latina de Costa Rica 
 <p>Heredia, Rincón de Sabanilla</p>
-<p>Graduación esperada: Junio 2024</p>
+<p>Graduación esperada: Octubre 2024</p>
 
 <p>Febrero 2008 - Diciembre 2019</p>
 <p>Bachiller en Educación Media/ Saint Gabriel Elementary and High School</p>
@@ -31,7 +31,7 @@ Soy una estudiante de tercer año de ingeniería en sistemas computacionales. Me
 
 **Idiomas**
 
-Inglés - C2
+Inglés - C1
 
 Español - nativo
 
