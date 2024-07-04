@@ -14,8 +14,6 @@ Soy una estudiante de tercer año de ingeniería en sistemas computacionales. Me
 
 • Liderazgo
 
-• Resolución de problemas
-
 • Capaz de aprender rápidamente
 
 **Educación**
