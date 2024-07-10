@@ -4,7 +4,7 @@ Soy una estudiante de tercer año de ingeniería en sistemas computacionales. Me
 
 **Aptitudes**
 
-• Programación en Java, PHP, y Kotlin.
+• Programación en Python, Java, PHP, y Kotlin.
 
 • Creación de bases de datos en mySQL y SQL Server
 
